@@ -1,4 +1,4 @@
-# ProgAlgLAb2
+# ProgAlg - Lab2 
 K-mer Frequency  
 _N. Rocha, K. Amrani_
 
